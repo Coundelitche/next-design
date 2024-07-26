@@ -58,7 +58,7 @@ Please ensure your code adheres to the existing style and conventions used in th
 
 ## Authors
 
-- **Your Name** - [Your GitHub Profile](https://github.com/your-username)
+- **Stan Barbate** - (https://github.com/Coundelitche)
 
 If you have contributed to the project and would like to be listed here, please submit a pull request with your details!
 
