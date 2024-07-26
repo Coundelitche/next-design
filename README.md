@@ -16,7 +16,7 @@ Next Design is a web application designed to demonstrate modern web development 
 
 ## Technologies
 
-- **Next.js**: React framework for building universal web applications
+- **Vite.js**: Build tool and development server for modern web projects
 - **React**: JavaScript library for building user interfaces
 - **TypeScript**: Superset of JavaScript with static typing
 - **TailwindCSS**: Utility-first CSS framework for rapid and modular design
